@@ -7,3 +7,5 @@ Dagelijks maken vele mensen gebruik van portofoons voor korte snelle communicati
 Versie 1.0 is samengesteld door Michiel Klaver en is te downloaden via onderstaande URL:
 
 https://github.com/klaver/portofoonprotocol/archive/refs/tags/v1.0.zip
+
+Of lees de online [PDF publicatie](https://github.com/klaver/portofoonprotocol/blob/main/portofoon%20protocol.pdf)
