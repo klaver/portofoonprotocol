@@ -4,7 +4,7 @@ Dagelijks maken vele mensen gebruik van portofoons voor korte snelle communicati
 
 ## Download
 
-Versie 1.1 is samengesteld door Michiel Klaver en is te downloaden via onderstaande URL:
+De meest recente versie samengesteld door Michiel Klaver is v1.1 en is te downloaden via onderstaande URL:
 
 https://github.com/klaver/portofoonprotocol/archive/refs/tags/v1.1.zip
 
