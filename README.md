@@ -15,5 +15,5 @@ Of lees de online [PDF publicatie](https://github.com/klaver/portofoonprotocol/b
 In versie 1.1 een toevoeging, een kleine aanpassing, en een verduidelijking:
 
 - Basisregel toegevoegd om heel even te wachten direct na het indrukken van de spreeksleutel;
-- Codewoord 'over en uit' aangepast naar ' uit';
+- Codewoord 'over en uit' aangepast naar '\<stationsnaam\> uit';
 - SOS kleurcodes herkomst van de kleuren uitgelegd;
