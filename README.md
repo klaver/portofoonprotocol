@@ -4,13 +4,15 @@ Dagelijks maken vele mensen gebruik van portofoons voor korte snelle communicati
 
 ## Download
 
-De meest recente versie samengesteld door Michiel Klaver is v1.1 en is te downloaden via onderstaande URL:
+De meest recente versie samengesteld door Michiel Klaver is v1.2 en is te downloaden via onderstaande URL:
 
-https://github.com/klaver/portofoonprotocol/archive/refs/tags/v1.1.zip
+https://github.com/klaver/portofoonprotocol/archive/refs/tags/v1.2.zip
 
 Of lees de online [PDF publicatie](https://github.com/klaver/portofoonprotocol/blob/main/portofoon%20protocol.pdf)
 
 ## Versiegeschiedenis
+
+In versie 1.2 duidelijkere voorbeelden van stationsnamen toegepast.
 
 In versie 1.1 een toevoeging, een kleine aanpassing, en een verduidelijking:
 
