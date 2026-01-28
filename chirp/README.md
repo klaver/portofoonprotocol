@@ -2,7 +2,7 @@
 In de /chirp/ directory staan diverse configuratiebestanden die gebruikt kunnen worden in combinatie met de Chirp Next software, voor het programmeren van uiteenlopende merken/modellen portofoons.
 Gebruik altijd de meest actuele versie van Chirp Next, verkrijgbaar via de officiële Chirp website: https://chirpmyradio.com/projects/chirp/wiki/Download Daar vind je ook een overzicht voor welke portofoons die software geschikt is.
 
-Alle hier aangeboden configuraties zijn primair gericht op het programmeren van **Dual-Band analoge FM portofoons**.
+Alle hier aangeboden configuraties zijn gebaseerd op openbare bronnen. Mochten er aanvullingen/aanpassingen nodig zijn, dan hoor ik het graag! Contactgegevens staan onderaan mijn pagina op https://klaver.it/
 
 ## PMR-446
 Voor vergunningsvrije persoonlijke communicatie, kun je binnen Europa gebruik maken van 16 specifieke frequenties in de 446 MHz reeks. Deze zijn gereserveerd voor Personal Mobile Radio (PMR), vandaar de samengestelde naam PMR-446. Het zendvermogen binnen die frequenties is maximaal 0,5 Watt. Vrijwel alle consumenten portofoons die je in de gangbare elektronicawinkels kunt kopen, voldoen hier netjes aan.
