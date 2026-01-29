@@ -9,6 +9,12 @@ Voor vergunningsvrije persoonlijke communicatie, kun je binnen Europa gebruik ma
 
 Een aantal concurrerende fabrikanten hebben echter ooit bedacht dat ze een paar truukjes moesten toevoegen aan het radio-signaal, zodat het standaard niet mogelijk zou zijn om verschillende merken portofoons door elkaar te gebruiken. Gelukkig zijn die truukjes bekend, en staan er voor **Motorola** en **Kenwood** specifieke PMR446 configuratie bestanden, zodat je met een ander merk/model portofoon toch met Motorola's en Kenwoods kunt communiceren.
 
+## HAM Repeaters NL
+Als je het radiozendamateur examen Novice (N) of Full (F) hebt gehaald, dan komen er een aantal extra frequentiebanden bij, waarop je mag zenden. Na registratie bij het RDI ontvang je een call-sign, waarmee je contact kunt leggen met andere radiozendamateurs. Omdat het bereik van een portofoon niet zo heel groot is, zijn er door het hele land zogenaamde repeater stations beschikbaar. Zodra je met je portofoon op de ingangsfrequentie van een repeater gaat zenden, zal je bericht direct via de uitgangsfrequentie van de repeater met hoog vermogen her-zonden worden en voor iedereen in de wijde omtrek hoorbaar zijn.
+
+## Satelliet communicatie
+Rond de wereld vliegen enkele speciale FM repeater satellieten. Wanneer je een specifieke yagi antenne aan je portofoon koppelt en je deze richt op op die satellieten , kun je een nog veel grotere afstand overbruggen dan met standaard NL repeaters. Ook voor de frequenties van deze satellieten heb je een radiozendamateur licentie nodig.
+
 ## Marifoon
 Ben je in bezit van een MARCOM-A of MARCOM-B certificaat, dan mag je voor specifieke doeleinden gebruik maken van de marifoon kanalen, zoals beschreven in de maritieme voorschriften.
 
