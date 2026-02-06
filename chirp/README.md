@@ -12,8 +12,10 @@ Een aantal concurrerende fabrikanten hebben echter ooit bedacht dat ze een paar 
 ## HAM Repeaters NL
 Als je het radiozendamateur examen Novice (N) of Full (F) hebt gehaald, dan komen er een aantal extra frequentiebanden bij, waarop je mag zenden. Na registratie bij het RDI ontvang je een call-sign, waarmee je contact kunt leggen met andere radiozendamateurs. Omdat het bereik van een portofoon niet zo heel groot is, zijn er door het hele land zogenaamde repeater stations beschikbaar. Zodra je met je portofoon op de ingangsfrequentie van een repeater gaat zenden, zal je bericht direct via de uitgangsfrequentie van de repeater met hoog vermogen her-zonden worden en voor iedereen in de wijde omtrek hoorbaar zijn.
 
-## Satelliet communicatie
+## HAM Satelliet communicatie
 Rond de wereld vliegen enkele speciale FM repeater satellieten. Wanneer je een specifieke yagi antenne aan je portofoon koppelt en je deze richt op op die satellieten , kun je een nog veel grotere afstand overbruggen dan met standaard NL repeaters. Ook voor de frequenties van deze satellieten heb je een radiozendamateur licentie nodig.
+
+Vanwege het doppler-effect dat op de UHF 70cm band kan optreden bij snel bewegende objecten (zoals satellieten), zijn er naast de center frequentie (=00) ook stapjes van +/-5 en +/-10 toegevoegd. Beweegt de satelliet naar je toe, dan kunnen de radio-golven gecomprimeerd zijn en zul je iets in de plus moeten afstemmen. Vliegt de satelliet van je weg, dan is het radio-signaal wat meer uitgerekt en zul je een frequentie net iets lager moeten pakken.
 
 ## Marifoon
 Ben je in bezit van een MARCOM-A of MARCOM-B certificaat, dan mag je voor specifieke doeleinden gebruik maken van de marifoon kanalen, zoals beschreven in de maritieme voorschriften.
